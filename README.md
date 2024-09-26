@@ -7,9 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-[![MasterHead](your image link)]([https://github.com/iakaanb/])
- <img align="right" alt="Coding" width="400" src="add your link 
-  here">
+
 ![Naakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakaanb&theme=shadow_green&show_icons=true)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
