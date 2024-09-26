@@ -6,6 +6,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+[![MasterHead](your image link)]([https://github.com/iakaanb/])
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakaanb)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 iakaanb/iakaanb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
