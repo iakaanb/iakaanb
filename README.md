@@ -8,7 +8,7 @@
 
 
 [![MasterHead](your image link)]([https://github.com/iakaanb/])
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakaanb)](https://github.com/anuraghazra/github-readme-stats)
+![Naakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakaanb&theme=shadow_green&show_icons=true)
 
 <!---
 iakaanb/iakaanb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
