@@ -4,10 +4,10 @@
 I’m interested in everything from **game development** to **healthcare technology**. I’m eager to expand my knowledge and explore new ideas.
 
 ### 🌿 Current Learning
-I’m currently learning how to **animate** and bring animations to life in my code.
+I’m currently learning how to **animate** using Adobe Animate and bring animations to life in my code.
 
 ### 💚 Collaboration
-I’m looking to collaborate on projects that blend **gaming** with **healthcare solutions**, like educational games or wellness apps.
+I’m looking to collaborate on projects that blend **gaming** with **healthcare solutions**, like educational games or wellness apps. I also enjoy focusing on apps that tackle social solutions.
 
 ---
 
