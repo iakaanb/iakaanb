@@ -28,7 +28,10 @@
 
 
 
-<aside> ![Naakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakaanb&theme=shadow_green&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) </aside>
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=iakaanb&theme=shadow_green&show_icons=true" alt="Naakai's GitHub stats" style="margin-right: 20px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakaanb&hide_progress=true" alt="Top Langs" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
