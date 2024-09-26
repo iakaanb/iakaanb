@@ -25,8 +25,11 @@
 	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=iakaanb&theme=shadow_green&show_icons=true" alt="Naakai's GitHub stats" />
+</div>
 
-<aside> ![Naakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakaanb&theme=shadow_green&show_icons=true) </aside>
+<!-- ![Naakai's GitHub stats](https://github-readme-stats.vercel.app/api?username=iakaanb&theme=shadow_green&show_icons=true) -->
 
 <!-- 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) </aside> how to put these side by side -->
 
