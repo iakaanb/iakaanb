@@ -1,7 +1,9 @@
-👋 Hi, I’m Naakai.
-🎮 I’m interested in everything from game development to healthcare technology. I’m eager to expand my knowledge and explore new ideas.
-🌿 I’m currently learning how to animate and bring animations to life in my code.
+👋 Hi, I’m Naakai.  
+🎮 I’m interested in everything from game development to healthcare technology. I’m eager to expand my knowledge and explore new ideas.  
+🌿 I’m currently learning how to animate and bring animations to life in my code.  
 💚 I’m looking to collaborate on projects that blend gaming with healthcare solutions, like educational games or wellness apps.
+
+### Technologies & Tools
 
 <div align="center">
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -21,6 +23,18 @@
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png" alt="Swift" title="Swift"/></code>
 	<code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
+</div>
+
+### Connect with Me
+
+<p align="left">
+<a href="your-twitter-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="your-linkedin-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="your-instagram-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="your-youtube-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a>
+</p>
+
+
 <!-- </div>
 <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=iakaanb&theme=shadow_green&show_icons=true" alt="Naakai's GitHub stats" />
@@ -36,15 +50,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iakaanb&hide_progress=true" alt="Top Langs" />
 </div> 
 -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
-</p>
-
 
 <!---
 iakaanb/iakaanb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
