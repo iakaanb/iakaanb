@@ -9,6 +9,8 @@ I’m currently learning how to **animate** and bring animations to life in my c
 ### 💚 Collaboration
 I’m looking to collaborate on projects that blend **gaming** with **healthcare solutions**, like educational games or wellness apps.
 
+---
+
 ### Technologies & Tools
 
 <div align="center">
