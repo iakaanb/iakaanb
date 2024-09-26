@@ -1,7 +1,13 @@
-👋 Hi, I’m Naakai.  
-🎮 I’m interested in everything from game development to healthcare technology. I’m eager to expand my knowledge and explore new ideas.  
-🌿 I’m currently learning how to animate and bring animations to life in my code.  
-💚 I’m looking to collaborate on projects that blend gaming with healthcare solutions, like educational games or wellness apps.
+# 👋 Hi, I’m Naakai!  
+
+## 🎮 Interests
+I’m interested in everything from **game development** to **healthcare technology**. I’m eager to expand my knowledge and explore new ideas.
+
+## 🌿 Current Learning
+I’m currently learning how to **animate** and bring animations to life in my code.
+
+## 💚 Collaboration
+I’m looking to collaborate on projects that blend **gaming** with **healthcare solutions**, like educational games or wellness apps.
 
 ### Technologies & Tools
 
