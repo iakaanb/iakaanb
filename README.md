@@ -41,12 +41,8 @@ I’m looking to collaborate on projects that blend **gaming** with **healthcare
  <a href="your-instagram-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="your-youtube-link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="30" width="40" /></a> </p>-->
 <p>
-  <a href="www.linkedin.com/in/naakai-mcdonald
-" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  <a href="https://www.linkedin.com/in/naakai-mcdonald" rel="nofollow noreferrer" target="_blank">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn"> LinkedIn
   </a>
 </p>
 
