@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Naakai!  
 
 ### 🎮 Interests
-I’m interested in everything from **game development** to **healthcare technology**. I’m eager to expand my knowledge and explore new ideas.
+I’m interested in everything Product from **mobile development** to **design**. I’m eager to expand my knowledge and explore new ideas.
 
 ### 🌿 Current Learning
 I’m currently learning how to **animate** using Adobe Animate and bring animations to life in my code.
